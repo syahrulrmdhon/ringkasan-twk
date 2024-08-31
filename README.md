@@ -1,5 +1,3 @@
-# Ringkasan TWK (Test Wawasan Kebangsaan)
-
 # Ringkasan Materi TWK (Test Wawasan Kebangsaan)
 
 **Daftar Isi**  
