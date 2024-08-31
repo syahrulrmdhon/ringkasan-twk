@@ -95,3 +95,34 @@ Pancasila sebagai dasar dan ideologi negara memiliki nilai-nilai sebagai berikut
 3. **Nilai-nilai persatuan Indonesia** Setiap warga negara mengutamakan persatuan, kesatuan, kepentingan dan keselamatan bangsa dan negara di atas kepentingan pribadi dan golongan. b. Sanggup dan rela berkorban untuk kepentingan bangsa dan negara.
 4. **Nilai-nilai kerakyatan yang dipimpin oleh hikmah kebijaksanaan dalam permusyawaratan/perwakilan** Mengutamakan musyawarah mufakat dalam menyelesaikan persoalan. b. Menghormati dan menjunjung tinggi setiap keputusan yang dicapai sebagai hasil musyawarah.
 5. **Nilai-nilai keadilan sosial bagi seluruh rakyat Indonesia** Seluruh warga negara bersama-sama menciptakan keadilan sosial dalam kehidupan bermasyarakat. b. Menjunjung tinggi sikap saling menghormati dan bersikap adil antar sesama manusia.
+
+
+
+### E. Perbandingan Ideologi
+**Berikut adalah tabel perbandingan antara ideologi komunisme, liberalisme, dan Pancasila.**
+
+| No | Komunisme | Liberalisme | Pancasila |
+|----|-----------|-------------|-----------|
+| 1  | HAM diabaikan | HAM dijunjung secara mutlak | HAM dijunjung tanpa melupakan kewajiban asasi |
+| 2  | Nasionalisme ditolak | Nasionalisme dijunjung tinggi | Nasionalisme dijunjung tinggi |
+| 3  | Keputusan diambil oleh partai | Keputusan melalui suara terbanyak (voting) | Keputusan melalui musyawarah mufakat tidak didasarkan suara terbanyak |
+| 4  | Dominasi partai | Dominasi mayoritas | Tidak ada dominasi |
+| 5  | Tidak ada oposisi | Ada oposisi | Ada oposisi dengan alasan (sebab) yang dapat dipertanggungjawabkan |
+| 6  | Tidak ada perbedaan pendapat | Ada perbedaan pendapat | Ada perbedaan pendapat, bebas, dan terhormat |
+| 7  | Kepentingan negara | Kepentingan mayoritas | Kepentingan seluruh rakyat |
+
+### F. Sikap Positif terhadap Pancasila
+**Berikut adalah sikap positif terhadap Pancasila dalam berbagai aspek kehidupan:**
+
+1. **Sikap positif terhadap Pancasila dalam kehidupan politik**
+   - Menghormati perbedaan pendapat secara bebas dan bertanggung jawab.
+   - Menjalankan pemerintahan secara konstitusional.
+
+2. **Sikap positif terhadap Pancasila dalam kehidupan ekonomi**
+   - Memanfaatkan sumber daya alam secara baik.
+   - Menjalankan kegiatan perekonomian sebagai usaha bersama berdasar asas kekeluargaan.
+  
+3. **Sikap positif terhadap Pancasila dalam kehidupan sosial**
+   - Mengembangkan sikap tenggang rasa dan saling menghormati antarsesama manusia tanpa melihat suku, agama, ras, dan antargolongan.
+   - Bersikap adil dan tidak membedakan hak orang lain. 
+
