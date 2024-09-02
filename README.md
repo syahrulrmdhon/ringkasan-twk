@@ -1,7 +1,6 @@
 # Ringkasan Materi TWK (Test Wawasan Kebangsaan)
 
-Berikut adalah daftar isi yang telah dilengkapi untuk bagian **E. Berbagai Penyimpangan terhadap Konstitusi** dan **F. Amandemen UUD 1945**:
-
+Berikut adalah Ringkasan Materi untuk persiapan TWK (Test Wawasan Kebangsaan) CPNS
 ---
 
 **Daftar Isi**
