@@ -2,14 +2,14 @@
 
 **Daftar Isi**  
 
-* [**Ringkas 1: Pancasila**](#-ringkas-1-pancasila)
+* [**Ringkas 1: Pancasila**](#ringkas-1-pancasila)
     + [**A. Arti dan Pengertian Ideologi**](#a-arti-dan-pengertian-ideologi)
-  * [**B. Dasar dan Ideologi Negara Republik Indonesia**](#b-dasar-dan-ideologi-negara-republik-indonesia)
+    + [**B. Dasar dan Ideologi Negara Republik Indonesia**](#b-dasar-dan-ideologi-negara-republik-indonesia)
     + [**C. Sejarah Perumusan Pancasila**](#c-sejarah-perumusan-pancasila)
     + [**D. Nilai-Nilai Pancasila**](#d-nilai-nilai-pancasila)
     + [E. Perbandingan Ideologi](#e-perbandingan-ideologi)
     + [F. Sikap Positif terhadap Pancasila](#f-sikap-positif-terhadap-pancasila)
-  * [**Ringkas 2: Undang-Undang Dasar 1945**](#ringkas-2-undang-undang-dasar-1945)
+* [**Ringkas 2: Undang-Undang Dasar 1945**](#ringkas-2-undang-undang-dasar-1945)
     + [**A. Hakikat Konstitusi**](#a-hakikat-konstitusi)
     + [**B. Macam-Macam Konstitusi**](#b-macam-macam-konstitusi)
     + [**C. Sifat Konstitusi**](#c-sifat-konstitusi)
