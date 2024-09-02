@@ -302,14 +302,14 @@ f. **Perbauran lembaga-lembaga negara sehingga tidak ada lagi istilah lembaga te
 
 #### 4. Tahap-tahap amandemen UUD 1945
   a. **Tahap pertama:**  
-    - Diputuskan dalam Sidang MPR pada 19 Oktober 1999.  
-    - Menyangkut 5 persoalan pokok:  
-       - Perubahan tentang lembaga pemegang kekuasaan membuat undang-undang.  
-       - Perubahan masa jabatan presiden.  
-       - Perubahan tentang hak prerogatif presiden.  
-       - Perubahan tentang fungsi menteri.  
-       - Perubahan redaksional.  
-    - 9 pasal yang diamandemen adalah: Pasal 5, 7, 9, 13, 14, 15, 17, 20, dan 21.
+  - Diputuskan dalam Sidang MPR pada 19 Oktober 1999.
+  - Menyangkut 5 persoalan pokok:
+        - Perubahan tentang lembaga pemegang kekuasaan membuat undang-undang.
+        - Perubahan masa jabatan presiden.
+        - Perubahan tentang hak prerogatif presiden.
+        - Perubahan tentang fungsi menteri.
+        - Perubahan redaksional.
+  - 9 pasal yang diamandemen adalah: Pasal 5, 7, 9, 13, 14, 15, 17, 20, dan 21.
 
   b. **Tahap kedua:**  
     - Diputuskan dalam Sidang MPR pada 18 Agustus 2000.  
@@ -346,11 +346,11 @@ f. **Perbauran lembaga-lembaga negara sehingga tidak ada lagi istilah lembaga te
       - Pasal 1, 3, 6, 6A, 7A, 7B, 7C, 8, 11, 17, 22C, 22D, 22E, 23, 23A, 23C, 23E, 23F, 23G, 24, 24A, 24B, dan 24C.
 
   d. **Tahap Keempat**
-    - Diputuskan dalam Sidang MPR pada 10 Agustus 2002.
-    - Berkenaan dengan 12 persoalan sebagai berikut:
-      - Komposisi keanggotaan MPR.
-      - Pemilu Presiden dan Wakil Presiden.
-      - Presiden dan Wakil Presiden tidak dapat melakukan tindakan yang merugikan negara.
+  - Diputuskan dalam Sidang MPR pada 10 Agustus 2002.
+  - Berkenaan dengan 12 persoalan sebagai berikut:
+        - Komposisi keanggotaan MPR.
+        - Pemilu Presiden dan Wakil Presiden.
+        - Presiden dan Wakil Presiden tidak dapat melakukan tindakan yang merugikan negara.
       - Kewenangan Mahkamah Konstitusi dalam menguji undang-undang terhadap UUD.
       - Kewenangan DPR untuk membentuk undang-undang.
       - Batas usia pensiun Hakim Agung.
