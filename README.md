@@ -243,91 +243,90 @@ Konstitusi yang pernah berlaku di Indonesia adalah sebagai berikut:
   - **d. Penyelenggaraan pemilu oleh lembaga nonpemerintah yang netral dan mandiri.**
 
 ### **E. Berbagai Penyimpangan terhadap Konstitusi**
+  Berikut adalah berbagai penyimpangan terhadap konstitusi yang pernah terjadi di Indonesia. 
 
-Berikut adalah berbagai penyimpangan terhadap konstitusi yang pernah terjadi di Indonesia. 
+  #### 1. Penyimpangan terhadap UUD 1945 periode 1945–1949
+  - **Kekuasaan presiden tidak terbatas:** Masa awal proklamasi dianggap sebagai masa peralihan sehingga pada masa ini, kekuasaan presiden sangat luas. Selain menjalankan kekuasaan eksekutif, presiden juga menjalankan kekuasaan MPR dan DPR.
+  - **Di samping presiden, hanya ada wakil presiden dan KNIP sebagai pembantu presiden.**
+  - **Pergantian sistem kabinet:** Dari presidensial menjadi kabinet parlementer menjadikan para menteri diangkat dan bertanggung jawab kepada parlemen/DPR.
 
-### 1. Penyimpangan terhadap UUD 1945 periode 1945–1949
-- **Kekuasaan presiden tidak terbatas:** Masa awal proklamasi dianggap sebagai masa peralihan sehingga pada masa ini, kekuasaan presiden sangat luas. Selain menjalankan kekuasaan eksekutif, presiden juga menjalankan kekuasaan MPR dan DPR.
-- **Di samping presiden, hanya ada wakil presiden dan KNIP sebagai pembantu presiden.**
-- **Pergantian sistem kabinet:** Dari presidensial menjadi kabinet parlementer menjadikan para menteri diangkat dan bertanggung jawab kepada parlemen/DPR.
+  #### 2. Penyimpangan terhadap UUD RIS 1949
+  - **Penyimpangan bentuk negara:** Bentuk negara serikat bertentangan dengan konsep Negara Kesatuan Republik Indonesia.
+  - **Pergantian UUD 1945 menjadi UUD RIS.**
+  - **Pemerintahan parlementer:** Tidak sesuai dengan semangat UUD 1945.
 
-### 2. Penyimpangan terhadap UUD RIS 1949
-- **Penyimpangan bentuk negara:** Bentuk negara serikat bertentangan dengan konsep Negara Kesatuan Republik Indonesia.
-- **Pergantian UUD 1945 menjadi UUD RIS.**
-- **Pemerintahan parlementer:** Tidak sesuai dengan semangat UUD 1945.
+  #### 3. Penyimpangan terhadap UUDS 1950
+  - **Persaingan tidak sehat:** Dengan diterapkannya demokrasi liberal, ditafsirkan sebagai kebebasan mutlak bagi setiap individu dan partai politik sehingga timbul persaingan tidak sehat yang mengancam persatuan dan kesatuan bangsa.
+  - **Instabilitas nasional:** Terjadinya instabilitas nasional akibat dari sering bergantinya kabinet sehingga program-program yang disusun sebelumnya tidak berjalan.
 
-### 3. Penyimpangan terhadap UUDS 1950
-- **Persaingan tidak sehat:** Dengan diterapkannya demokrasi liberal, ditafsirkan sebagai kebebasan mutlak bagi setiap individu dan partai politik sehingga timbul persaingan tidak sehat yang mengancam persatuan dan kesatuan bangsa.
-- **Instabilitas nasional:** Terjadinya instabilitas nasional akibat dari sering bergantinya kabinet sehingga program-program yang disusun sebelumnya tidak berjalan.
+  #### 4. Penyimpangan terhadap UUD 1945 periode 1959–1965 (Orde Lama)
+  - **Presiden membubarkan DPR:** Presiden membubarkan DPR karena tidak menyetujui RAPBN yang disusulkan pemerintah.
+  - **Penetapan pidato presiden:** Menjadi berjudul Penemuan Kembali Revolusi Kita/Manifesto Politik Republik Indonesia (Manipol) menjadi GBHN yang bersifat tetap oleh MPRS.
+  - **Pengangkatan presiden seumur hidup:** Pengangkatan presiden seumur hidup melalui Tap MPR No.III/MPRS/1963.
+  - **Rangkapan jabatan:** Pimpinan lembaga tinggi dan tertinggi negara diangkat sebagai menteri negara.
+  - **Kekuasaan presiden tidak terbatas:** Kekuasaan presiden melebihi wewenang yang ditetapkan dalam UUD 1945.
+  - **Tidak berjalannya hak bujet DPR:** Karena pemerintah tidak mengajukan rancangan undang-undang APBN untuk mendapatkan persetujuan DPR.
+  - **Supremasi hukum tidak berjalan:** Supremasi hukum berubah menjadi supremasi kekuasaan presiden.
+  - **Lembaga legislatif tidak berjalan:** Lembaga legislatif tidak mewakili rakyat bahkan tidak disetujui karena hasil rekayasa politik.
+  - **Bermunculnya korupsi, kolusi, dan nepotisme (KKN).**
 
-### 4. Penyimpangan terhadap UUD 1945 periode 1959–1965 (Orde Lama)
-- **Presiden membubarkan DPR:** Presiden membubarkan DPR karena tidak menyetujui RAPBN yang disusulkan pemerintah.
-- **Penetapan pidato presiden:** Menjadi berjudul Penemuan Kembali Revolusi Kita/Manifesto Politik Republik Indonesia (Manipol) menjadi GBHN yang bersifat tetap oleh MPRS.
-- **Pengangkatan presiden seumur hidup:** Pengangkatan presiden seumur hidup melalui Tap MPR No.III/MPRS/1963.
-- **Rangkapan jabatan:** Pimpinan lembaga tinggi dan tertinggi negara diangkat sebagai menteri negara.
-- **Kekuasaan presiden tidak terbatas:** Kekuasaan presiden melebihi wewenang yang ditetapkan dalam UUD 1945.
-- **Tidak berjalannya hak bujet DPR:** Karena pemerintah tidak mengajukan rancangan undang-undang APBN untuk mendapatkan persetujuan DPR.
-- **Supremasi hukum tidak berjalan:** Supremasi hukum berubah menjadi supremasi kekuasaan presiden.
-- **Lembaga legislatif tidak berjalan:** Lembaga legislatif tidak mewakili rakyat bahkan tidak disetujui karena hasil rekayasa politik.
-- **Bermunculnya korupsi, kolusi, dan nepotisme (KKN).**
-
-### 5. Penyimpangan terhadap UUD 1945 periode 1965 (Orde Baru)
-Berikut adalah penyimpangan terhadap UUD 1945 periode 1965, yaitu pada masa orde baru sampai munculnya Gerakan Reformasi 1998.
-- **Sistem demokrasi yang dijalankan bersifat feodalisme.**
-- **Pembatasan aspirasi:** Kebebasan berkreasi terutama yang berkaitan dengan arah kebijakan pemerintah dibungkam.
-- **Ekonomi kerakyatan tidak berjalan:** Ekonomi kerakyatan berubah menjadi ekonomi kapitalisme, monopoli oleh negara berubah menjadi monopoli oleh keluarga.
+  #### 5. Penyimpangan terhadap UUD 1945 periode 1965 (Orde Baru)
+  Berikut adalah penyimpangan terhadap UUD 1945 periode 1965, yaitu pada masa orde baru sampai munculnya Gerakan Reformasi 1998.
+  - **Sistem demokrasi yang dijalankan bersifat feodalisme.**
+  - **Pembatasan aspirasi:** Kebebasan berkreasi terutama yang berkaitan dengan arah kebijakan pemerintah dibungkam.
+  - **Ekonomi kerakyatan tidak berjalan:** Ekonomi kerakyatan berubah menjadi ekonomi kapitalisme, monopoli oleh negara berubah menjadi monopoli oleh keluarga.
 
 ### F. Amandemen UUD 1945
-Amandemen adalah penambahan atau perubahan pada sebuah konstitusi yang merupakan bagian yang tidak terpisahkan dari naskah aslinya.
+  Amandemen adalah penambahan atau perubahan pada sebuah konstitusi yang merupakan bagian yang tidak terpisahkan dari naskah aslinya.
 
-#### 1. Kesepakatan dasar dalam mengamandemen UUD 1945
-a. **Tidak mengubah Pembukaan UUD 1945.**  
-b. **Tetap mempertahankan bentuk nyata Negara Kesatuan Republik Indonesia.**  
-c. **Tetap mempertahankan sistem presidensial.**  
-d. **Penjelasan UUD 1945 yang bersifat normatif dimasukkan ke dalam pasal-pasal.**  
-e. **Perubahan dilakukan secara "addendum".**  
+  #### 1. Kesepakatan dasar dalam mengamandemen UUD 1945
+  a. **Tidak mengubah Pembukaan UUD 1945.**  
+  b. **Tetap mempertahankan bentuk nyata Negara Kesatuan Republik Indonesia.**  
+  c. **Tetap mempertahankan sistem presidensial.**  
+  d. **Penjelasan UUD 1945 yang bersifat normatif dimasukkan ke dalam pasal-pasal.**  
+  e. **Perubahan dilakukan secara "addendum".**  
 
-#### 2. Tujuan amandemen UUD 1945
-a. **Memenuhi tuntutan-tuntutan reformasi.**  
-b. **Untuk merevisi ulang UUD 1945.**  
-c. **Agar isi UUD 1945 lebih jelas setelah diamandemen.**  
+  #### 2. Tujuan amandemen UUD 1945
+  a. **Memenuhi tuntutan-tuntutan reformasi.**  
+  b. **Untuk merevisi ulang UUD 1945.**  
+  c. **Agar isi UUD 1945 lebih jelas setelah diamandemen.**  
 
-#### 3. Perbaikan dan perubahan (amandemen UUD 1945) yang dimaksud adalah:
-a. **Adanya pembatasan-pembatasan atas kekuasaan Presiden di Indonesia.**  
-b. **Memperkuat dan menegaskan kembali peran kekuasaan legislatif di Indonesia.**  
-c. **Mencantumkan Hak Asasi Manusia Indonesia.**  
-d. **Menegaskan kembali hak dan kewajiban negara ataupun warga negara.**  
-e. **Otonomi daerah dan hak-hak rakyat di daerah.**  
-f. **Perbauran lembaga-lembaga negara sehingga tidak ada lagi istilah lembaga tertinggi negara dan lembaga tinggi negara.**  
+  #### 3. Perbaikan dan perubahan (amandemen UUD 1945) yang dimaksud adalah:
+  a. **Adanya pembatasan-pembatasan atas kekuasaan Presiden di Indonesia.**  
+  b. **Memperkuat dan menegaskan kembali peran kekuasaan legislatif di Indonesia.**  
+  c. **Mencantumkan Hak Asasi Manusia Indonesia.**  
+  d. **Menegaskan kembali hak dan kewajiban negara ataupun warga negara.**  
+  e. **Otonomi daerah dan hak-hak rakyat di daerah.**  
+  f. **Perbauran lembaga-lembaga negara sehingga tidak ada lagi istilah lembaga tertinggi negara dan lembaga tinggi negara.**  
 
-#### 4. Tahap-tahap amandemen UUD 1945
+  #### 4. Tahap-tahap amandemen UUD 1945
   a. **Tahap pertama:**  
   - Diputuskan dalam Sidang MPR pada 19 Oktober 1999.
   - Menyangkut 5 persoalan pokok:
-        - Perubahan tentang lembaga pemegang kekuasaan membuat undang-undang.
-        - Perubahan masa jabatan presiden.
-        - Perubahan tentang hak prerogatif presiden.
-        - Perubahan tentang fungsi menteri.
-        - Perubahan redaksional.
+    - Perubahan tentang lembaga pemegang kekuasaan membuat undang-undang.
+    - Perubahan masa jabatan presiden.
+    - Perubahan tentang hak prerogatif presiden.
+    - Perubahan tentang fungsi menteri.
+    - Perubahan redaksional.
   - 9 pasal yang diamandemen adalah: Pasal 5, 7, 9, 13, 14, 15, 17, 20, dan 21.
 
   b. **Tahap kedua:**  
-    - Diputuskan dalam Sidang MPR pada 18 Agustus 2000.  
-    - Menyangkut 9 persoalan pengaturan mengenai:  
-        - Wilayah negara.  
-        - Hak-hak asasi manusia.  
-        - DPR.  
-        - Pemerintahan Daerah.  
-        - Pertahanan dan keamanan.  
-        - Lambang negara.
-        - Lagu kebangsaan.
+  - Diputuskan dalam Sidang MPR pada 18 Agustus 2000.  
+  - Menyangkut 9 persoalan pengaturan mengenai:  
+    - Wilayah negara.  
+    - Hak-hak asasi manusia.  
+    - DPR.  
+    - Pemerintahan Daerah.  
+    - Pertahanan dan keamanan.  
+    - Lambang negara.
+    - Lagu kebangsaan.
     - 5 bab dan 25 pasal yang diamandemen adalah:
-        - Bab IXA, X, XA, XII, dan XV.
-        - Pasal 18, 18A, 18B, 19, 20, 20A, 22A, 22B, 25E, 26, 27, 28A, 28B, 28C, 28D, 28E, 28F, 28G, 28H, 28I, 28J, 30, 36B, 36C, dan 36A.
+      - Bab IXA, X, XA, XII, dan XV.
+      - Pasal 18, 18A, 18B, 19, 20, 20A, 22A, 22B, 25E, 26, 27, 28A, 28B, 28C, 28D, 28E, 28F, 28G, 28H, 28I, 28J, 30, 36B, 36C, dan 36A.
 
-  c. **Tahap Ketiga**
-    - Diputuskan dalam Sidang MPR pada 9 November 2001.
-    - Berkenaan dengan 16 persoalan pokok, meliputi:
+  c. **Tahap Ketiga:**
+  - Diputuskan dalam Sidang MPR pada 9 November 2001.
+  - Berkenaan dengan 16 persoalan pokok, meliputi:
       - Kedaulatan rakyat.
       - Tugas MPR.
       - Syarat-syarat Presiden dan Wakil Presiden.
@@ -348,9 +347,9 @@ f. **Perbauran lembaga-lembaga negara sehingga tidak ada lagi istilah lembaga te
   d. **Tahap Keempat**
   - Diputuskan dalam Sidang MPR pada 10 Agustus 2002.
   - Berkenaan dengan 12 persoalan sebagai berikut:
-        - Komposisi keanggotaan MPR.
-        - Pemilu Presiden dan Wakil Presiden.
-        - Presiden dan Wakil Presiden tidak dapat melakukan tindakan yang merugikan negara.
+      - Komposisi keanggotaan MPR.
+      - Pemilu Presiden dan Wakil Presiden.
+      - Presiden dan Wakil Presiden tidak dapat melakukan tindakan yang merugikan negara.
       - Kewenangan Mahkamah Konstitusi dalam menguji undang-undang terhadap UUD.
       - Kewenangan DPR untuk membentuk undang-undang.
       - Batas usia pensiun Hakim Agung.
@@ -362,13 +361,13 @@ f. **Perbauran lembaga-lembaga negara sehingga tidak ada lagi istilah lembaga te
       - Badan-badan lain dalam kekuasaan kehakiman.
       - Pendidikan.
       - Kebudayaan.
-    - 2 bab dan 13 pasal yang diamandemen adalah:
-      - Bab XIII, dan XIV.
-      - Pasal 2, 6A, 8, 11, 16, 23B, 23D, 24, 31, 32, 33, 34, dan 37.
+  - 2 bab dan 13 pasal yang diamandemen adalah:
+    - Bab XIII, dan XIV.
+    - Pasal 2, 6A, 8, 11, 16, 23B, 23D, 24, 31, 32, 33, 34, dan 37.
 
-**Rangkuman setelah 4 kali amandemen UUD 1945*
-    - Sebanyak 25 butir tidak diubah, 46 butir diubah atau ditambah dengan ketentuan lainnya.
-    - Secara keseluruhan, saat ini berjumlah 199 butir ketentuan, 174 ketentuan baru.
+*Rangkuman setelah 4 kali amandemen UUD 1945*
+  - Sebanyak 25 butir tidak diubah, 46 butir diubah atau ditambah dengan ketentuan lainnya.
+  - Secara keseluruhan, saat ini berjumlah 199 butir ketentuan, 174 ketentuan baru.
 
 
 
