@@ -301,23 +301,85 @@ e. **Otonomi daerah dan hak-hak rakyat di daerah.**
 f. **Perbauran lembaga-lembaga negara sehingga tidak ada lagi istilah lembaga tertinggi negara dan lembaga tinggi negara.**  
 
 #### 4. Tahap-tahap amandemen UUD 1945
-a. **Tahap pertama:**  
-- Diputuskan dalam Sidang MPR pada 19 Oktober 1999.  
-- Menyangkut 5 persoalan pokok:  
-  - Perubahan tentang lembaga pemegang kekuasaan membuat undang-undang.  
-  - Perubahan masa jabatan presiden.  
-  - Perubahan tentang hak prerogatif presiden.  
-  - Perubahan tentang fungsi menteri.  
-  - Perubahan redaksional.  
-- 9 pasal yang diamandemen adalah: Pasal 5, 7, 9, 13, 14, 15, 17, 20, dan 21.
+  a. **Tahap pertama:**  
+    - Diputuskan dalam Sidang MPR pada 19 Oktober 1999.  
+    - Menyangkut 5 persoalan pokok:  
+       - Perubahan tentang lembaga pemegang kekuasaan membuat undang-undang.  
+       - Perubahan masa jabatan presiden.  
+       - Perubahan tentang hak prerogatif presiden.  
+       - Perubahan tentang fungsi menteri.  
+       - Perubahan redaksional.  
+    - 9 pasal yang diamandemen adalah: Pasal 5, 7, 9, 13, 14, 15, 17, 20, dan 21.
 
-b. **Tahap kedua:**  
-- Diputuskan dalam Sidang MPR pada 18 Agustus 2000.  
-- Menyangkut 9 persoalan pengaturan mengenai:  
-  - Wilayah negara.  
-  - Hak-hak asasi manusia.  
-  - DPR.  
-  - Pemerintahan Daerah.  
-  - Pertahanan dan keamanan.  
-  - Lambang negara.  
+  b. **Tahap kedua:**  
+    - Diputuskan dalam Sidang MPR pada 18 Agustus 2000.  
+    - Menyangkut 9 persoalan pengaturan mengenai:  
+        - Wilayah negara.  
+        - Hak-hak asasi manusia.  
+        - DPR.  
+        - Pemerintahan Daerah.  
+        - Pertahanan dan keamanan.  
+        - Lambang negara.
+        - Lagu kebangsaan.
+    - 5 bab dan 25 pasal yang diamandemen adalah:
+        - Bab IXA, X, XA, XII, dan XV.
+        - Pasal 18, 18A, 18B, 19, 20, 20A, 22A, 22B, 25E, 26, 27, 28A, 28B, 28C, 28D, 28E, 28F, 28G, 28H, 28I, 28J, 30, 36B, 36C, dan 36A.
+
+  c. **Tahap Ketiga**
+    - Diputuskan dalam Sidang MPR pada 9 November 2001.
+    - Berkenaan dengan 16 persoalan pokok, meliputi:
+      - Kedaulatan rakyat.
+      - Tugas MPR.
+      - Syarat-syarat Presiden dan Wakil Presiden.
+      - Pemilihan Presiden dan Wakil Presiden secara langsung.
+      - Pemakzulan Presiden.
+      - Presiden berhalangan tetap.
+      - Kekosongan Wakil Presiden.
+      - Perjanjian internasional.
+      - Kementerian negara.
+      - Pemilihan umum.
+      - APBN, pajak, dan keuangan negara.
+      - Komisi Yudisial.
+      - Mahkamah Konstitusi.
+    - 3 bab dan 22 pasal yang diamandemen adalah:
+      - Bab VIIA, VIIB, dan VIIIA.
+      - Pasal 1, 3, 6, 6A, 7A, 7B, 7C, 8, 11, 17, 22C, 22D, 22E, 23, 23A, 23C, 23E, 23F, 23G, 24, 24A, 24B, dan 24C.
+
+  d. **Tahap Keempat**
+    - Diputuskan dalam Sidang MPR pada 10 Agustus 2002.
+    - Berkenaan dengan 12 persoalan sebagai berikut:
+      - Komposisi keanggotaan MPR.
+      - Pemilu Presiden dan Wakil Presiden.
+      - Presiden dan Wakil Presiden tidak dapat melakukan tindakan yang merugikan negara.
+      - Kewenangan Mahkamah Konstitusi dalam menguji undang-undang terhadap UUD.
+      - Kewenangan DPR untuk membentuk undang-undang.
+      - Batas usia pensiun Hakim Agung.
+      - Pengaturan lebih lanjut mengenai hal-hal lain yang diperlukan dalam peraturan perundang-undangan.
+      - Bank Indonesia.
+      - Dewan Pertimbangan yang bertugas memberi nasihat kepada Presiden.
+      - Mata uang.
+      - Bank sentral.
+      - Badan-badan lain dalam kekuasaan kehakiman.
+      - Pendidikan.
+      - Kebudayaan.
+    - 2 bab dan 13 pasal yang diamandemen adalah:
+      - Bab XIII, dan XIV.
+      - Pasal 2, 6A, 8, 11, 16, 23B, 23D, 24, 31, 32, 33, 34, dan 37.
+
+**Rangkuman setelah 4 kali amandemen UUD 1945*
+    - Sebanyak 25 butir tidak diubah, 46 butir diubah atau ditambah dengan ketentuan lainnya.
+    - Secara keseluruhan, saat ini berjumlah 199 butir ketentuan, 174 ketentuan baru.
+
+
+
+---
+
+## **Ringkas 3: Bhinneka Tunggal Ika**
+
+### **A. Sejarah Penemuan Bhinneka Tunggal Ika**
+  - Semboyan atau sesanti Bhinneka Tunggal Ika diungkapkan pertama kali oleh Mpu Tantular, pujangga agung kerajaan Majapahit yang hidup pada masa pemerintahan Raja Hayamwuruk pada abad XIV (1350–1389).
+  - Sesanti tersebut terdapat dalam karyanya, kakawin Sutasoma yang berbunyi “Bhinna ika tunggal ika, tan hana dharma mangrwa” yang artinya, “Berbeda-beda, tetapi tak ada pengabdian yang mendua”. Kutipan tersebut berasal dari pupuh 139, bait 5, kakawin Sutasoma.
+  - Semboyan yang kemudian dijadikan prinsip oleh kalangan dalam pemerintahan kerajaan Majapahit ini menggambarkan adanya keanekaragaman yang dipersatukan oleh kekuatan Majapahit pada masa itu. Meskipun mereka berbeda-beda tetapi tetap bersatu.
+  - Semboyan ini merupakan karya Mpu Tantular diharapkan dapat dijadikan sebagai pandangan hidup rakyat Majapahit yang berbhineka, sendangkan oleh bangsa Indonesia dijadikan semboyan dan pegangan bangsa dalam membawa diri dalam hidup berbangsa dan bernegara.
+
 
