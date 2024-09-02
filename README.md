@@ -1,14 +1,18 @@
 # Ringkasan Materi TWK (Test Wawasan Kebangsaan)
 
-**Daftar Isi**  
+Berikut adalah daftar isi yang telah dilengkapi untuk bagian **E. Berbagai Penyimpangan terhadap Konstitusi** dan **F. Amandemen UUD 1945**:
+
+---
+
+**Daftar Isi**
 
 * [**Ringkas 1: Pancasila**](#ringkas-1-pancasila)
     + [**A. Arti dan Pengertian Ideologi**](#a-arti-dan-pengertian-ideologi)
     + [**B. Dasar dan Ideologi Negara Republik Indonesia**](#b-dasar-dan-ideologi-negara-republik-indonesia)
     + [**C. Sejarah Perumusan Pancasila**](#c-sejarah-perumusan-pancasila)
     + [**D. Nilai-Nilai Pancasila**](#d-nilai-nilai-pancasila)
-    + [E. Perbandingan Ideologi](#e-perbandingan-ideologi)
-    + [F. Sikap Positif terhadap Pancasila](#f-sikap-positif-terhadap-pancasila)
+    + [**E. Perbandingan Ideologi**](#e-perbandingan-ideologi)
+    + [**F. Sikap Positif terhadap Pancasila**](#f-sikap-positif-terhadap-pancasila)
 * [**Ringkas 2: Undang-Undang Dasar 1945**](#ringkas-2-undang-undang-dasar-1945)
     + [**A. Hakikat Konstitusi**](#a-hakikat-konstitusi)
     + [**B. Macam-Macam Konstitusi**](#b-macam-macam-konstitusi)
@@ -20,7 +24,18 @@
       - [4. UUD 1945 hasil Dekret Presiden](#4-uud-1945-hasil-dekret-presiden)
       - [5. UUD 1945 hasil amandemen](#5-uud-1945-hasil-amandemen)
     + [**E. Berbagai Penyimpangan terhadap Konstitusi**](#e-berbagai-penyimpangan-terhadap-konstitusi)
+      - [1. Masa Orde Lama](#1-masa-orde-lama)
+      - [2. Masa Orde Baru](#2-masa-orde-baru)
+      - [3. Masa Reformasi](#3-masa-reformasi)
     + [**F. Amandemen UUD 1945**](#f-amandemen-uud-1945)
+      - [1. Latar Belakang Amandemen](#1-latar-belakang-amandemen)
+      - [2. Proses Amandemen](#2-proses-amandemen)
+      - [3. Dampak Amandemen terhadap Sistem Ketatanegaraan](#3-dampak-amandemen-terhadap-sistem-ketatanegaraan)
+      - [4. Tantangan dalam Pelaksanaan Amandemen](#4-tantangan-dalam-pelaksanaan-amandemen)
+* [**Ringkas 3: Bhinneka Tunggal Ika**](#ringkas-3-bhinneka-tunggal-ika)
+    + [**A. Sejarah Penemuan Bhinneka Tunggal Ika**](#a-sejarah-penemuan-bhinneka-tunggal-ika)
+
+---
 
 ## **Ringkas 1: Pancasila**
 
